@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruno-cat
 - 👀 I’m interested in basketball,history,math model and robots
-- 🌱 I’m currently learning relecommunication in Xidian University
+- 🌱 I’m currently learning telecommunication in Xidian University
 - 📫 email me at zli020525@gmail.com or 1145223421@qq.com
 
 <!---
